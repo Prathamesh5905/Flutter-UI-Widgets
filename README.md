@@ -1,7 +1,4 @@
-# Flutter-UI-Widgets
-Flutter UI Widgets  and Their style attributes 
-This Repository Inludes All flutter widgets with their basic style 
-Steps to run==>
+
 1-create a new flutter project in your android studion or vs code.
 2-copy the the code from files that i created here.copy it in your main.dart file
     which is present in your project.
